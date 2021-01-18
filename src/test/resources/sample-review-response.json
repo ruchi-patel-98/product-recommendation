@@ -1,0 +1,13 @@
+{
+  "reviewStatistics":{
+    "averageOverallRating": 4.5,
+    "overallRatingRange": 4.0,
+    "totalReviewCount": 200
+  },
+  "reviewTexts": [
+    "This product is very good",
+    "This product is awful",
+    "happy with purchase"
+  ]
+}
+

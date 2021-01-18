@@ -1,0 +1,61 @@
+{
+  "query": "ipad",
+  "sort": "relevance",
+  "responseGroup": "base",
+  "totalResults": 1439,
+  "start": 1,
+  "numItems": 10,
+  "items": [
+    {
+      "itemId": 955898738,
+      "parentItemId": 955898738,
+      "name": "Apple iPad (Latest Model) 128GB Wi-Fi - Space Gray"
+    },
+    {
+      "itemId": 130154883,
+      "parentItemId": 130154883,
+      "name": "Refurbished Apple Ipad 2 16GB 9.7\" Touchscreen Wi-Fi Dual Cameras Tablet - White - MC979LLA"
+    },
+    {
+      "itemId": 451084042,
+      "parentItemId": 451084042,
+      "name": "Apple iPad (5th Generation) 32GB Wi-Fi Gold"
+    },
+    {
+      "itemId": 46795987,
+      "parentItemId": 46795987,
+      "name": "Apple iPad mini 4 Wi-Fi 128GB Space Gray"
+    },
+    {
+      "itemId": 189417079,
+      "parentItemId": 189417079,
+      "name": "Refurbished Apple iPad 3 9.7\" 16GB WiFi Tablet Dual Core A5X Processor 1GB Camera - Black"
+    },
+    {
+      "itemId": 46337895,
+      "parentItemId": 46337895,
+      "name": "Refurbished Apple iPad 2 WiFi 16GB 9.7\" LCD Bluetooth Tablet - MC769LL/A 2nd Gen"
+    },
+    {
+      "itemId": 55900734,
+      "parentItemId": 55900734,
+      "name": "Apple 10.5-inch iPad Pro Wi-Fi + Cellular 512GB Rose Gold"
+    },
+    {
+      "itemId": 119296236,
+      "parentItemId": 119296236,
+      "name": "Refurbished Apple iPad Air 2 64GB 9.7\" Retina Display Wi-Fi Tablet - Gold - MH182LL/A"
+    },
+    {
+      "itemId": 37648943,
+      "parentItemId": 37648943,
+      "name": "Apple iPad Air 2 Wi-Fi 16GB (Refurbished)"
+    },
+    {
+      "itemId": 186759700,
+      "parentItemId": 186759700,
+      "name": "Refurbished iPad Air 1 16GB Silver WiFi"
+    }
+  ],
+  "facets": []
+}
